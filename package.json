@@ -1,0 +1,19 @@
+{
+  "name": "fifibot-neural",
+  "version": "0.1.0",
+  "description": "Fifibot - With Neural Network (WIP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node . --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-software/horsebot.git"
+  },
+  "author": "DE Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/de-software/horsebot/issues"
+  },
+  "homepage": "https://github.com/de-software/horsebot#readme"
+}
